@@ -1,0 +1,121 @@
+body
+{
+    background-image: url(./assets/OIP.jpg) ;
+    text-align: center;
+    
+   }
+  
+.color1
+{
+    background-color: darkgreen;
+    color:black;  
+    text-align: center;
+}
+.color2
+{
+    background-color: black;
+    color:black;
+}
+.color3
+{
+    background-color: teal ;
+    color:black;
+}
+.color4
+{
+    background-color: blue ;
+    color:black;
+}
+.color5
+{
+   background-color: navy; 
+   color:black;
+}
+.color6
+{
+   background-color: lime; 
+   color:black;
+}
+.color7
+{
+   background-color:white; 
+   color:black;
+}
+.color8
+{
+   background-color:purple; 
+   color:black;
+}
+.color9
+{
+   background-color:yellow; 
+   color:black;
+}
+.color10
+{
+   background-color:olive; 
+   color:black;
+}
+.color11
+{
+   background-color:red; 
+   color:black;
+}
+.color12
+{
+    background-color: black;
+    color:black;
+}
+.color13
+{
+   background-color:gray; 
+   color:black;
+}
+.color14
+{
+   background-color:olive; 
+   color:black;
+}
+.color15
+{
+   background-color:red; 
+   color:black;
+}
+.color16
+{
+   background-color:fuchsia; 
+   color:black;
+}
+.color17
+{
+    background-color: darkgreen;
+    color:black;  
+}
+*
+{
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+table {
+   height: 60%;
+   width: 60%;
+}
+.color{
+   background-image: url(./assets/OIP.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
