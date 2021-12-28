@@ -12,7 +12,7 @@
         
     }
     
-    for (let i = 18; i <=37; i++) {
+    for (let i = 18; i <=33; i++) {
       
         let borrar=document.getElementById(i);
         borrar.addEventListener("click", ()=> {
